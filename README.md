@@ -7,8 +7,6 @@ From left to right: **Ours**, **LCMFTN**, **DeepIA**, **TCVC**, **Pix2pix**
 
 ![1PM_scene818](./gif/1PM_scene818.gif)
 
-![5PotC_scene316](./gif/5PotC_scene316.gif)
-
 ![6HMC_scene342](./gif/6HMC_scene342.gif)
 
 ![6HMC_scene963](./gif/6HMC_scene963.gif)
