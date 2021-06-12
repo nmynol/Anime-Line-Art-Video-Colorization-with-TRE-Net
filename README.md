@@ -1,17 +1,21 @@
 # Anime-Line-Art-Video-Colorization-with-Transformation-Region-Enhancement-Network
 Anime Line Art Video Colorization with Transformation Region Enhancement Network.
 
-<video src="./video/1PM_scene818.mp4"></video>
+# Videos
 
-<video src="./video/5PotC_scene316.mp4"></video>
+From left to right: **Ours**, **LCMFTN**, **DeepIA**, **TCVC**, **Pix2pix**
 
-<video src="./video/6HMC_scene342.mp4"></video>
+![1PM_scene818](./video/1PM_scene818.mp4)
 
-<video src="./video/6HMC_scene963.mp4"></video>
+![5PotC_scene316](./video/5PotC_scene316.mp4)
 
-<video src="./video/7KDS_scene446.mp4"></video>
+![6HMC_scene342](./video/6HMC_scene342.mp4)
 
-<video src="./video/8PR_scene167.mp4"></video>
+![6HMC_scene963](./video/6HMC_scene963.mp4)
+
+![7KDS_scene446](./video/7KDS_scene446.mp4)
+
+![8PR_scene167](./video/8PR_scene167.mp4)
 
 ## experiment results
 
@@ -99,11 +103,11 @@ Short(≤25 frames)
 
 #### Qualitative Comparison against previous methods
 
-![Presentation](/Users/nmy/STUDY/lab/works/ACMMM/figures/Presentation.jpg)
+![Presentation](./image/Presentation.jpg)
 
 #### Qualitative Comparison for ablation experiments
 
-![Screen Shot 2021-06-11 at 16.20.16](/Users/nmy/Library/Application Support/typora-user-images/Screen Shot 2021-06-11 at 16.20.16.png)
+![ablation](./image/ablation.png)
 
-![experinent2(1) copy](/Users/nmy/STUDY/lab/works/ACMMM/figures/experinent2(1) copy.jpg)
+![loss_ablation](./image/loss_ablation.jpg)
 
