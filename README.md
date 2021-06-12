@@ -5,17 +5,19 @@ Anime Line Art Video Colorization with Transformation Region Enhancement Network
 
 From left to right: **Ours**, **LCMFTN**, **DeepIA**, **TCVC**, **Pix2pix**
 
-![1PM_scene818](./video/1PM_scene818.mp4)
+![1PM_scene818](./gif/1PM_scene818.gif)
 
-![5PotC_scene316](./video/5PotC_scene316.mp4)
+![5PotC_scene316](./gif/5PotC_scene316.gif)
 
-![6HMC_scene342](./video/6HMC_scene342.mp4)
+![6HMC_scene342](./gif/6HMC_scene342.gif)
 
-![6HMC_scene963](./video/6HMC_scene963.mp4)
+![6HMC_scene963](./gif/6HMC_scene963.gif)
 
-![7KDS_scene446](./video/7KDS_scene446.mp4)
+![7KDS_scene446](./gif/7KDS_scene446.gif)
 
-![8PR_scene167](./video/8PR_scene167.mp4)
+![8PR_scene167](./gif/8PR_scene167.gif)
+
+Corresponding videos can be found in `./video`.
 
 ## experiment results
 
