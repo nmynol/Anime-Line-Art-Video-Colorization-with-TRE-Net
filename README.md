@@ -3,7 +3,7 @@ Anime Line Art Video Colorization with Transformation Region Enhancement Network
 
 # Videos
 
-From left to right: **Ours**, **LCMFTN**, **DeepIA**, **TCVC**, **Pix2pix**
+From left to right: **GT**, **Ours**, **LCMFTN**, **DeepIA**, **TCVC**, **Pix2pix**
 
 ![1PM_scene818](./gif/1PM_scene818.gif)
 
