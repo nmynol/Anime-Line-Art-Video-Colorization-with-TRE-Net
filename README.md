@@ -20,18 +20,18 @@ From left to right: **GT**, **Pix2pix**, **TCVC**, **DeepIA**, **DLAVC**, **LCMF
 
 ## Comparison between different liners
 
-<img src="./gif/4.gif" alt="8PR_scene167" style="zoom: 25%;" />
+![8PR_scene167](./gif/4.gif)
 
-<img src="./gif/4c.gif" alt="8PR_scene167" style="zoom:25%;" />
+![8PR_scene167](./gif/4c.gif)
 
-<img src="./gif/2.gif" alt="1PM_scene818" style="zoom:25%;" />
+![1PM_scene818](./gif/2.gif)
 
-<img src="./gif/2c.gif" alt="1PM_scene818" style="zoom:25%;" />
+![1PM_scene818](./gif/2c.gif)
 
-<img src="./gif/1.gif" alt="1PM_scene818" style="zoom:25%;" />
-<img src="./gif/1c.gif" alt="1PM_scene818" style="zoom:25%;" />
+![1PM_scene818](./gif/1.gif)
+![1PM_scene818](./gif/1c.gif)
 
-<img src="./gif/3.gif" alt="1PM_scene818" style="zoom:25%;" />
-<img src="./gif/3c.gif" alt="1PM_scene818" style="zoom:25%;" />
+![1PM_scene818](./gif/3.gif)
+![1PM_scene818](./gif/3c.gif)
 
 
