@@ -16,8 +16,6 @@ From left to right: **GT**, **Pix2pix**, **TCVC**, **DeepIA**, **DLAVC**, **LCMF
 
 ![1PM_scene818](./gif/1PM_scene818.gif)
 
-![6HMC_scene963](./gif/6HMC_scene963.gif)
-
 ## Comparison between different liners
 
 ![8PR_scene167](./gif/4.gif)
@@ -30,8 +28,3 @@ From left to right: **GT**, **Pix2pix**, **TCVC**, **DeepIA**, **DLAVC**, **LCMF
 
 ![1PM_scene818](./gif/1.gif)
 ![1PM_scene818](./gif/1c.gif)
-
-![1PM_scene818](./gif/3.gif)
-![1PM_scene818](./gif/3c.gif)
-
-
