@@ -17,6 +17,7 @@ From left to right: **GT**, **Pix2pix**, **TCVC**, **DeepIA**, **DLAVC**, **LCMF
 ![1PM_scene818](./gif/1PM_scene818.gif)
 
 ## Comparison between different liners
+From left to right: **xdog**, **sketchkeras**, **anime2sketch**
 
 ![8PR_scene167](./gif/4.gif)
 
